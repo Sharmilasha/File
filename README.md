@@ -23,9 +23,11 @@ Pass the details of student to the function.
 File has been created and written with student details.
 
 # Program:
+```
 Developed by : Sharmila A
 Regiter number:212221230094
-
+```
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -76,6 +78,7 @@ public class program
         Console.ReadKey();
     }
 }
+```
 # Output:
 
 ![c# 10](https://github.com/Sharmilasha/File/assets/94506182/9691b721-2e76-4e23-8ad8-6d1a83c7ca9e)
